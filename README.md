@@ -1,8 +1,6 @@
 # TestOlinebc
 在线考试系统
-本项目是一个在线考试系统，项目技术文档在
-微信公众号“1024程序开发者社区” id：cxkszsq1024
-简书：https://www.jianshu.com/p/be312922f30c
+本项目是一个在线考试系统
 CSDN：https://blog.csdn.net/id_iot/article/details/88629526
 效果如图：
 1.登陆界面
