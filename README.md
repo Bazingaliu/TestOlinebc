@@ -1,7 +1,7 @@
 # TestOlinebc
 在线考试系统
 本项目是一个在线考试系统
-CSDN：https://blog.csdn.net/id_iot/article/details/88629526
+
 效果如图：
 1.登陆界面
 ![登陆](https://github.com/zhangbinchao/TestOlinebc/blob/master/pic/1.PNG)
